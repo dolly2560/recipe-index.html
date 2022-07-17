@@ -1,0 +1,36 @@
+/* Css code */
+
+headings{
+    foreground-colour:#a4a400;
+    background-color: #f0f0f0;
+     font-family:lucida,sans-unicode,helvetica,arial,sans-serif ;
+     
+}
+
+ main heading{
+    align-self: center;
+     font-style:22pt bold ;
+ }
+
+ other headings{
+    align-items: flex-start;
+    font-style:18pt normal ;
+ }
+
+ body{
+    background-color: white;
+    text color: #a4a400;
+    font-style: 11pt;
+ }
+ 
+ page text{
+    font-family:georgia,garamond,serif;
+
+ }
+ links{
+    color: #a4a400;
+ }
+
+ page{
+    background-image: silverware.jpg;
+ }
